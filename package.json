@@ -1,0 +1,17 @@
+{
+  "name": "naschbot",
+  "version": "1.0.0",
+  "description": "This app writes and deletes (after a certain time) the latest menu image url from cafenasch.de into a predefined slack channel",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Tom Janssens // tomjanssens.de",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/web-api": "^5.10.0",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4",
+    "puppeteer": "^5.2.0"
+  }
+}
