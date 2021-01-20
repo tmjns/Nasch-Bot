@@ -7,4 +7,4 @@ Run 'npm install' to install all dependencies into your local node_modules folde
 ##### TIME_ALIVE=10000
 #
 
-More soon: https://medium.com/@tmjns92
+Want to read the story behind?: https://tmjns92.medium.com/using-slack-to-stay-updated-f02fe948e5a
