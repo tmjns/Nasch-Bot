@@ -1,4 +1,4 @@
-![Post and delete Slack message](https://twitter.com/i/status/1358743763791859715 "Post and delete Slack message")
+![Post and delete Slack message](https://miro.medium.com/max/1400/1*QkRk7znrXi5DpYlMMr0hlQ.gif "Post and delete Slack message")
 
 
 # Nasch-Bot
