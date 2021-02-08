@@ -9,8 +9,8 @@ Run 'npm install' to install all dependencies into your local node_modules folde
 
 Want to read the story behind? https://tmjns92.medium.com/using-slack-to-stay-updated-f02fe948e5a
 
-```javascript
+<b>
 SLACK_TOKEN=xoxb-903999940739-1262682648423-nAzglmz8O9ZlLJGBmk8xyGsY
 SLACK_CHANNEL=CTJ1K483J
 TIME_ALIVE=10000
-```
+</b>
