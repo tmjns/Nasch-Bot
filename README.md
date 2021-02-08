@@ -8,3 +8,8 @@ Run 'npm install' to install all dependencies into your local node_modules folde
 #
 
 Want to read the story behind? https://tmjns92.medium.com/using-slack-to-stay-updated-f02fe948e5a
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
