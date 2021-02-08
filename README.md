@@ -1,3 +1,6 @@
+![Post and delete Slack message](https://twitter.com/i/status/1358743763791859715 "Post and delete Slack message")
+
+
 # Nasch-Bot
 
 The Nasch-Bot writes (and deletes) the latest image of the daily changing dish from 'https://cafenasch.de/#mittagstisch' into a predefined Slack channel. This project is an approach of using Slack and especially custom Slack app integrations to receive information from the web without actively searching for them.
