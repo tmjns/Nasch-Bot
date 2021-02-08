@@ -3,7 +3,7 @@
 
 # Nasch-Bot
 
-The Nasch-Bot writes (and deletes) the latest image of the daily changing dish from 'https://cafenasch.de/#mittagstisch' into a predefined Slack channel. This project is an approach of using Slack and especially custom Slack app integrations to receive information from the web without actively searching for them.
+The Nasch-Bot sends (and deletes) the latest image of the daily changing dish from 'https://cafenasch.de/#mittagstisch' into a predefined Slack channel. This project is an approach of using Slack and especially custom Slack app integrations to receive information from the web without actively searching for them.
 
 ### How to install:
 Run ```npm install``` to install all project dependencies into your local 'node_modules' folder. Don't forget to edit the '.env' file.
