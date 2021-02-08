@@ -13,4 +13,8 @@ TIME_ALIVE=10000
 ```
 
 ### Run it:
-After all dependencies are successfully installed run ```node index.js``` to start the application. Otherwise you can rund ```nodemon index.js``` in order to automatically restart the application when file changes in the directory are detected.
+After all dependencies are successfully installed run ```node index.js``` to start the application. Otherwise you can run ```nodemon index.js``` in order to automatically restart the application when file changes in the directory are detected.
+
+
+### The story behind:
+If you're interested in reading the story behind this project: https://tmjns92.medium.com/using-slack-to-stay-updated-f02fe948e5a
