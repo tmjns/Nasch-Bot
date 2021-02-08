@@ -20,4 +20,4 @@ After all dependencies are successfully installed run ```node index.js``` to sta
 
 
 ### The story behind:
-If you're interested in reading the story behind this project: https://tmjns92.medium.com/using-slack-to-stay-updated-f02fe948e5a
+In case you're interested in reading the story behind this project (there are also some handy tipps and tricks): https://tmjns92.medium.com/using-slack-to-stay-updated-f02fe948e5a
