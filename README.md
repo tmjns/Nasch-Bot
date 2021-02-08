@@ -2,8 +2,8 @@
 
 The Nasch-Bot writes and deletes the latest menu image URL from 'https://cafenasch.de' into a predefined Slack channel.
 
-## How to install:
-Run 'npm install' to install all dependencies into your local node_modules folder. Make sure to edit the '.env' file with these lines and replace them with your values.
+### How to install:
+Run ```npm install``` to install all project dependencies into your local 'node_modules' folder. Make sure to edit the '.env' file.
 
 Basic example of .env file:
 ```
