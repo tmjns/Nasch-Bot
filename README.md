@@ -9,7 +9,7 @@ The Nasch-Bot sends (and deletes) the latest image of the daily changing dish fr
 Run ```npm install``` to install all project dependencies into your local 'node_modules' folder. Don't forget to edit the '.env' file.
 
 Basic example of .env file:
-```
+```env
 SLACK_TOKEN=xoxb-903999940739-1262682648423-nAzglmz8O9ZlLJGBmk8xyGsY
 SLACK_CHANNEL=CTJ1K483J
 TIME_ALIVE=10000
